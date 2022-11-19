@@ -1,0 +1,23 @@
+h1{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+ul{
+    display: inline-flex;
+    list-style: none;
+}
+
+.recipe{
+    background-color: orange;
+    color: blue;
+    font-size: 30px;
+    border: 2px solid blue;
+    width: 220px;
+    height: 160px;
+    padding: 10px;
+    margin: 10px;
+    border: 20px solid green;
+    box-sizing: border-box;
+}
